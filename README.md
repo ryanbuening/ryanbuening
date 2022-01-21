@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ryanbuening
 - 👀 I’m interested in .NET, C#, Blazor Server, and .NET MAUI
-- 📫 How to reach me: [ryanbuening.com](https://ryanbuening.com)
+- 📫 How to reach me: [ryanbuening.com](https://ryanbuening.com), [LinkedIn](https://www.linkedin.com/in/ryanbuening)
