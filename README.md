@@ -14,7 +14,6 @@
 - Simplicity
 - Empathy
 - Humility
-- Integrity
 - Curiosity
 - Discipline
 
