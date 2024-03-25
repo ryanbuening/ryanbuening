@@ -6,17 +6,6 @@
 
 # Working with me
 
-#### What I value
-- Integrity
-- Dependability
-- Patience
-- Stability
-- Simplicity
-- Empathy
-- Humility
-- Curiosity
-- Discipline
-
 #### I...
 - do everything in my power to follow through on my commitments. I don't find myself making commitments I don't think I can meet.
 - enjoy working alone or with a small group of people.
@@ -30,7 +19,16 @@
 - get frustrated when I deem things are not being handled in a timely manner.
 - do not tend to show my emotions publicly. I need a more intimate environment for showing emotion.
 
-It takes awhile for me to come out of my shell and be vunerable.
+#### I value...
+- Integrity
+- Dependability
+- Patience
+- Stability
+- Simplicity
+- Empathy
+- Humility
+- Curiosity
+- Discipline
 
 #### Myers-Briggs
 
