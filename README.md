@@ -24,7 +24,7 @@
 - crave quiet time to think and reflect.
 - am extremely organized in my work and personal goals and plans.
 - learn best by reading and doing.
-- can be reluctant to give negative feedback or criticism for fear of hurting others. I find I need to establish rapport and safety with others before I can offer advice.
+- can be reluctant to give negative feedback or criticism. I find I need to establish rapport and safety with others before I can offer advice.
 - need time to think through ideas. I find it challenging to brainstorm ideas on the spot if it is the first time I'm hearing an idea.
 - expect others to follow through on their commitments.
 - get frustrated when I deem things are not being handled in a timely manner.
