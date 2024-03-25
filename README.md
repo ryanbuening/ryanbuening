@@ -32,7 +32,7 @@
 
 #### Myers-Briggs
 
-I am an INFJ according to a Myers-Briggs I took in 2023:
+I am an INFJ personality type in the [Myers-Briggs](https://www.themyersbriggs.com/) I took in 2023:
    
 > INFJs trust their visions, are compassionate and insightful, and quietly exert influence. They enjoy working alone or in compatible small groups, using their inspirations for people's growth and development.
 
