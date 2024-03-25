@@ -26,12 +26,11 @@
 - am extremely organized in my work and personal goals and plans.
 - learn best by reading and doing.
 - can be reluctant to give negative feedback or criticism for fear of hurting others. I find I need to establish rapport and safety with others before I can offer advice.
-- need time to think through ideas. I find it challenging to brainstorm ideas on the spot if it is the first time I'm hearing the idea.
+- need time to think through ideas. I find it challenging to brainstorm ideas on the spot if it is the first time I'm hearing an idea.
 - expect others to follow through on their commitments.
-- do not tend to show my emotions publicly and need a more intimate environment for self expression around people I am comfortable with.
+- do not tend to show my emotions publicly. I need a more intimate environment for showing emotion.
 
 It takes awhile for me to come out of my shell and be vunerable.
-
 
 #### Myers-Briggs
 
