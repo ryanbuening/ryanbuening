@@ -18,7 +18,7 @@
 - Discipline
 
 #### I...
-- do everything in my power to follow through on my commitments, and I don't find myself making commitments I don't think I can meet.
+- do everything in my power to follow through on my commitments. I don't find myself making commitments I don't think I can meet.
 - enjoy working alone or with a small group of people.
 - shy away from demanding things and tend to build support for my ideas through prototypes and demonstrations.
 - crave quiet time to think and reflect.
