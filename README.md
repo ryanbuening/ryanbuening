@@ -6,7 +6,7 @@
 
 # Working with me
 
-What I value
+#### What I value
 - Integrity
 - Dependability
 - Patience
@@ -18,25 +18,28 @@ What I value
 - Curiosity
 - Discipline
 
-I...
+#### I...
 - do everything in my power to follow through on my commitments, and I don't find myself making commitments I don't think I can meet.
 - enjoy working alone or with a small group of people.
 - shy away from demanding things and tend to build support for my ideas through prototypes and demonstrations.
 - crave quiet time to think and reflect.
 - am extremely organized in my work and personal goals and plans.
 - learn best by reading and doing.
-- am sometimes reluctant to give negative feedback or criticism for fear of hurting others. I find I need to establish rapport and safety with others before I can offer advice.
+- can be reluctant to give negative feedback or criticism for fear of hurting others. I find I need to establish rapport and safety with others before I can offer advice.
 - need time to think through ideas. I find it challenging to brainstorm ideas on the spot if it is the first time I'm hearing the idea.
 - expect others to follow through on their commitments.
 - do not tend to show my emotions publicly and need a more intimate environment for self expression around people I am comfortable with.
 
 It takes awhile for me to come out of my shell and be vunerable.
 
+
+#### Myers-Briggs
+
 I am an INFJ according to a Myers-Briggs I took in 2023:
    
 > INFJs trust their visions, are compassionate and insightful, and quietly exert influence. They enjoy working alone or in compatible small groups, using their inspirations for people's growth and development.
 
-A few descriptors from my Myers-Briggs that stood out to me were
+A few descriptors from my Myers-Briggs report that stood out to me were
 - Determined
 - Methodical
 - Reflective
