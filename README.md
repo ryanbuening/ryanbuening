@@ -30,13 +30,7 @@
 - Curiosity
 - Discipline
 
-#### Myers-Briggs
-
-I am an INFJ personality type in the [Myers-Briggs](https://www.themyersbriggs.com/) I took in 2023:
-   
-> INFJs trust their visions, are compassionate and insightful, and quietly exert influence. They enjoy working alone or in compatible small groups, using their inspirations for people's growth and development.
-
-A few descriptors from my Myers-Briggs report that stood out to me were
+#### I see myself as...
 - Determined
 - Methodical
 - Reflective
