@@ -9,6 +9,7 @@
 #### I...
 
 - enjoy working alone or with a small group of people.
+- do my best deep work from 8:30am-11:30am and strive to protect that time.
 - crave quiet time to think and reflect. I need time to think through ideas and solutions.
 - am extremely organized in my work and personal goals and plans.
 - learn best by reading and doing.
